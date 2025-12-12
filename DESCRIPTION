@@ -18,7 +18,11 @@ Imports:
     dplyr,    
     magrittr,
     Rcpp,
-    rlang
+    rlang,
+    devtools,
+    Xtensor.R
+Remotes:
+    xtensor-stack/Xtensor.R
 Depends: 
     R (>= 2.10)
 LinkingTo: 
